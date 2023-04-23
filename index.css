@@ -1,0 +1,230 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.first{
+    background-color: aqua;
+    height: 650px;
+}
+.nav_section{
+    padding-top: 20px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+nav{
+    padding-left: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 100px;
+}
+ul{
+    display: flex;
+    text-decoration: none;
+}
+li{
+    
+    list-style: none;
+}
+.contact_now{
+    background-color: black;
+    color: whitesmoke;
+    height: 30px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.link_contact_now{
+    text-decoration: none;
+}
+.first_button{
+    background-color: aqua;
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.opening_headers{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.first_form{
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.closing_remark{
+    padding-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.remark_item{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.second{
+    height: 20px;
+    display: flex;
+    justify-content: center;
+}
+.third{
+    background-color: yellow;
+    height: 850px;
+}
+.menu{
+    background-color: aliceblue;
+    height: 300px;
+    width: 200px;
+}
+.menu_img{
+    height: 180px;
+    width: 100%;
+}
+.menu_button{
+    font-size: 9px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.h5{
+    display: inline-block;
+    height: 1px;
+}
+.button_container{
+    padding-left: 50px;
+}
+.first_level{
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.bottom_menu_button{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.closing_button{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+.fourth{
+    padding-left: 60px;
+    padding-right: 60px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    height: 400px;
+    background-color: wheat;
+}
+.img4{
+    height: 300px;
+    width: 1000px;
+}
+.fourth_section_a{
+    text-decoration: none;
+    color: white;
+}
+.fourth_section_link{
+    background-color: black;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.write_Up4{
+    padding-right: 20px;
+}
+.fifth{
+    height: 200px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.fifth_subsection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subsection_item{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.sixth{
+    height: 350px;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.customer_info{
+    height: 150px;
+    width: 350px;
+    background-color: aliceblue;
+    display: flex;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    
+    
+}
+.profile_pic{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(212, 212, 212);
+    
+}
+.customer_details{
+    padding-left: 20px;
+}
+.customer_info_container{
+    display: flex;
+    justify-content: space-between;
+}
+.seventh{
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.eight{
+    background-color: aqua;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.socials{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.svg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
